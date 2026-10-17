@@ -1,0 +1,8 @@
+{
+  "name": "Happy Birthday Gauravi | A Romantic Journey",
+  "description": "A romantic and cinematic birthday celebration for Gauravi, crafted with love by Amol.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
